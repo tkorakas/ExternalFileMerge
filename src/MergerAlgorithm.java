@@ -98,7 +98,6 @@ public class MergerAlgorithm {
 			}//check fp
 		}// main for
 		// MERGE
-
 		file.close();
 		nfile.close();
 
